@@ -1,1 +1,3 @@
-# landing-page-dark
+# Landing Page | Dark Template
+
+> Using Material Design Bootstrap.
